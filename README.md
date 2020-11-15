@@ -1,0 +1,2 @@
+# ideae
+ technical musings
