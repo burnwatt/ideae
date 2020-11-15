@@ -1,2 +1,2 @@
 # ideae
- technical musings
+ technical musings with Python
