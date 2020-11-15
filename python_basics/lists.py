@@ -46,3 +46,14 @@ print(recruits)
 
 ## list length
 print(f"There are {len(recruits)} recruits in the list.")
+
+# basic for loop for the list to name each individual recruit
+print("Recruits:")
+for recruit in recruits:
+    print(f"\t{recruit}")
+print(f"Total recruits: {len(recruits)}")
+
+# Looping through a range of items in the list
+print('First 3 recruits:')
+for i in range(0,3):
+    print(f'\t {recruits[i]}')
