@@ -6,7 +6,7 @@ rw = RandomWalk()
 rw.fill_walk()
 
 # Plot walks
-plt.style.use('dark_background')
+plt.style.use('classic')
 fig, ax = plt.subplots()
 ax.scatter(rw.x_values, rw.y_values, s=13)
 plt.show()
