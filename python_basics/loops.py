@@ -1,3 +1,4 @@
+# import mean to so we don't have to write our own average function
 from statistics import mean
 
 # basic statistics
