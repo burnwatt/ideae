@@ -18,4 +18,5 @@ ax.tick_params(axis='both', which='major', labelsize=13)
 
 ax.axis([0,5000,0,5000**3])
 
+# plt.show()
 plt.savefig('cubes_figure.png')
